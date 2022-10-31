@@ -1,7 +1,7 @@
 import cv2
 import numpy as np
 
-foto=cv2.imread("C:\indir.jpg",0)
+foto=cv2.imread("indir.jpg",0)
 cv2.imshow("cicek",foto)
 cv2.waitKey()
 
